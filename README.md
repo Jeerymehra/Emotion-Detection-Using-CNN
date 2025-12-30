@@ -1,5 +1,5 @@
 Name: Emotion Detection System (Real-Time AI)
-Author: Krishna Goswami
+Author: Lucky Mehra
 Tech: Python, TensorFlow, OpenCV, CNN
 
 📌 Description
