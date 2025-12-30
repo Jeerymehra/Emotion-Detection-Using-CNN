@@ -20,7 +20,7 @@ Custom dataset (5 emotions)
 Trained CNN model with good accuracy
 
 📥 Download the trained model (.h5) here:
-➡ Google Drive Link (https://drive.google.com/file/d/1MPRu2aZE2XlQDmDgFFM9SdYWK-jM8iPR/view?usp=drive_link)
+➡ Google Drive Link (https://drive.google.com/file/d/1-AOmkXS3sllYiamTxhfbsxC2fj1abzg9/view?usp=sharing)
 
 
 Place the downloaded file in project root folder:
