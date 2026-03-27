@@ -1,15 +1,10 @@
-tensorflow
-keras
-pandas
 numpy
-jupyter
-notebook
-tqdm
+pandas
+opencv-python
 opencv-contrib-python
 scikit-learn
-dataset
-    angry;
-    happy;
-    neutral;
-    sad;
-    surprise;
+tqdm
+torch
+torchvision
+jupyter
+notebook
