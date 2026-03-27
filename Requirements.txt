@@ -7,9 +7,9 @@ notebook
 tqdm
 opencv-contrib-python
 scikit-learn
-dataset/
-    angry/
-    happy/
-    neutral/
-    sad/
-    surprise/
+dataset
+    angry;
+    happy;
+    neutral;
+    sad;
+    surprise;
