@@ -29,7 +29,7 @@ Emotion-Detection-System/
  ├── emotion_detector_live.py
  ├── emotion_detection_model.h5  ← HERE
 
-📦 Installation & Run
+📦 Installation & Run :
 pip install -r requirements.txt
 python emotion_detector_live.py
 
