@@ -30,7 +30,7 @@ Emotion-Detection-System/
  ├── emotion_detection_model.h5  ← HERE
 
 📦 Installation & Run :
-pip install -r requirements.txt
+pip install -r Requirements.txt
 python emotion_detector_live.py
 
 Press Q to exit camera window
